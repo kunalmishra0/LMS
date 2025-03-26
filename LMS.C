@@ -1,4 +1,8 @@
 #include <stdio.h>
 #include <conio.h>
 
-wejopfwef
+int main()
+{
+    printf("Hello!");
+    return 0;
+}
