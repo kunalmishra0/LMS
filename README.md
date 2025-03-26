@@ -70,5 +70,8 @@ A **C-based Library Management System** should provide features that cover basic
 - **Graphical User Interface (GUI)**: Though it's typically console-based in C, you could add a basic GUI using libraries like GTK+ for a more user-friendly experience.
 - **Barcode Scanning**: Implement barcode scanning for easier book issue/return.
 - **Multiple Branch Management**: Manage multiple branches of a library with the same system.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2d064e147802e532ecece4cd550ea88fddce504e
 Each of these features can be implemented incrementally to build a robust library management system.
